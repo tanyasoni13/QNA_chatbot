@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+langchain
+transformers
+pdfplumber
+faiss-gpu
+sentence-transformers
+bitsandbytes
+accelerate
